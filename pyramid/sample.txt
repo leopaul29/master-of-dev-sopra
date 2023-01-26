@@ -1,0 +1,8 @@
+3 6 4
+1 Z N
+2 M C D
+3 P
+Les ouvriers déplacent 1 pierre de 2 a 1
+Obelix déplace 3 pierre de 1 a 3
+Les ouvriers déplacent 2 pierre de 2 a 1
+Obelix déplace 1 pierre de 1 a 2

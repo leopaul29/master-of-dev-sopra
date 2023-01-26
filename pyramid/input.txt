@@ -1,0 +1,511 @@
+9 56 501
+1 T D W Z V P
+2 L S W V F J D
+3 Z M L S V T B H
+4 R S J
+5 C Z B G F M L W
+6 Q W V H Z R G B
+7 V J P C B D N
+8 P T B Q
+9 H G Z R T
+Les ouvriers déplacent 3 pierre de 2 a 9
+Obelix déplace 1 pierre de 1 a 6
+Obelix déplace 6 pierre de 6 a 7
+Les ouvriers déplacent 13 pierre de 7 a 6
+Obelix déplace 2 pierre de 4 a 5
+Les ouvriers déplacent 1 pierre de 4 a 3
+Les ouvriers déplacent 5 pierre de 9 a 8
+Les ouvriers déplacent 1 pierre de 8 a 5
+Les ouvriers déplacent 3 pierre de 1 a 6
+Les ouvriers déplacent 2 pierre de 1 a 8
+Les ouvriers déplacent 1 pierre de 2 a 1
+Les ouvriers déplacent 1 pierre de 9 a 3
+Les ouvriers déplacent 2 pierre de 9 a 8
+Les ouvriers déplacent 2 pierre de 5 a 9
+Les ouvriers déplacent 4 pierre de 5 a 4
+Les ouvriers déplacent 10 pierre de 8 a 4
+Les ouvriers déplacent 5 pierre de 6 a 2
+Les ouvriers déplacent 5 pierre de 5 a 9
+Les ouvriers déplacent 7 pierre de 3 a 7
+Obelix déplace 1 pierre de 9 a 8
+Obelix déplace 1 pierre de 1 a 9
+Obelix déplace 1 pierre de 7 a 3
+Obelix déplace 3 pierre de 8 a 9
+Obelix déplace 8 pierre de 6 a 7
+Obelix déplace 3 pierre de 9 a 4
+Obelix déplace 3 pierre de 2 a 6
+Obelix déplace 6 pierre de 6 a 3
+Obelix déplace 10 pierre de 7 a 9
+Obelix déplace 1 pierre de 7 a 5
+Les ouvriers déplacent 1 pierre de 5 a 7
+Les ouvriers déplacent 2 pierre de 3 a 6
+Les ouvriers déplacent 8 pierre de 4 a 2
+Les ouvriers déplacent 7 pierre de 4 a 3
+Les ouvriers déplacent 5 pierre de 2 a 3
+Les ouvriers déplacent 2 pierre de 4 a 6
+Les ouvriers déplacent 6 pierre de 2 a 8
+Les ouvriers déplacent 14 pierre de 9 a 1
+Les ouvriers déplacent 6 pierre de 3 a 2
+Les ouvriers déplacent 7 pierre de 3 a 7
+Obelix déplace 4 pierre de 2 a 3
+Les ouvriers déplacent 1 pierre de 6 a 5
+Les ouvriers déplacent 3 pierre de 6 a 5
+Les ouvriers déplacent 2 pierre de 2 a 4
+Obelix déplace 3 pierre de 1 a 2
+Les ouvriers déplacent 2 pierre de 4 a 1
+Les ouvriers déplacent 3 pierre de 5 a 6
+Obelix déplace 1 pierre de 9 a 6
+Obelix déplace 1 pierre de 2 a 6
+Les ouvriers déplacent 7 pierre de 7 a 4
+Les ouvriers déplacent 5 pierre de 8 a 1
+Obelix déplace 11 pierre de 3 a 5
+Les ouvriers déplacent 2 pierre de 2 a 5
+Les ouvriers déplacent 8 pierre de 5 a 1
+Les ouvriers déplacent 4 pierre de 7 a 2
+Les ouvriers déplacent 2 pierre de 6 a 8
+Obelix déplace 3 pierre de 2 a 4
+Obelix déplace 1 pierre de 8 a 3
+Obelix déplace 1 pierre de 3 a 2
+Obelix déplace 11 pierre de 1 a 8
+Les ouvriers déplacent 4 pierre de 6 a 5
+Les ouvriers déplacent 1 pierre de 4 a 1
+Obelix déplace 2 pierre de 6 a 4
+Les ouvriers déplacent 14 pierre de 1 a 9
+Obelix déplace 1 pierre de 1 a 6
+Obelix déplace 1 pierre de 1 a 9
+Obelix déplace 10 pierre de 4 a 3
+Obelix déplace 3 pierre de 3 a 2
+Obelix déplace 8 pierre de 8 a 9
+Obelix déplace 1 pierre de 4 a 5
+Obelix déplace 8 pierre de 5 a 8
+Obelix déplace 10 pierre de 9 a 5
+Obelix déplace 5 pierre de 3 a 2
+Obelix déplace 1 pierre de 3 a 7
+Obelix déplace 1 pierre de 2 a 5
+Obelix déplace 6 pierre de 2 a 3
+Obelix déplace 7 pierre de 3 a 5
+Obelix déplace 1 pierre de 6 a 9
+Obelix déplace 2 pierre de 5 a 9
+Les ouvriers déplacent 4 pierre de 2 a 9
+Les ouvriers déplacent 1 pierre de 2 a 1
+Les ouvriers déplacent 1 pierre de 1 a 5
+Obelix déplace 1 pierre de 7 a 4
+Les ouvriers déplacent 17 pierre de 9 a 1
+Obelix déplace 4 pierre de 1 a 5
+Les ouvriers déplacent 9 pierre de 5 a 8
+Les ouvriers déplacent 21 pierre de 8 a 6
+Les ouvriers déplacent 1 pierre de 4 a 6
+Les ouvriers déplacent 3 pierre de 5 a 1
+Les ouvriers déplacent 10 pierre de 1 a 5
+Les ouvriers déplacent 12 pierre de 5 a 3
+Les ouvriers déplacent 3 pierre de 3 a 6
+Les ouvriers déplacent 5 pierre de 5 a 7
+Les ouvriers déplacent 5 pierre de 5 a 9
+Les ouvriers déplacent 5 pierre de 7 a 5
+Les ouvriers déplacent 2 pierre de 5 a 7
+Les ouvriers déplacent 1 pierre de 8 a 5
+Les ouvriers déplacent 1 pierre de 7 a 3
+Les ouvriers déplacent 3 pierre de 1 a 7
+Les ouvriers déplacent 11 pierre de 6 a 5
+Les ouvriers déplacent 1 pierre de 7 a 3
+Les ouvriers déplacent 5 pierre de 9 a 7
+Les ouvriers déplacent 8 pierre de 3 a 6
+Les ouvriers déplacent 4 pierre de 9 a 6
+Les ouvriers déplacent 3 pierre de 1 a 6
+Les ouvriers déplacent 1 pierre de 9 a 5
+Les ouvriers déplacent 6 pierre de 5 a 1
+Obelix déplace 1 pierre de 1 a 6
+Obelix déplace 3 pierre de 1 a 3
+Obelix déplace 2 pierre de 1 a 2
+Obelix déplace 19 pierre de 6 a 1
+Obelix déplace 2 pierre de 5 a 9
+Obelix déplace 5 pierre de 3 a 1
+Les ouvriers déplacent 1 pierre de 5 a 6
+Les ouvriers déplacent 5 pierre de 6 a 7
+Les ouvriers déplacent 3 pierre de 7 a 9
+Obelix déplace 6 pierre de 5 a 9
+Les ouvriers déplacent 1 pierre de 5 a 6
+Les ouvriers déplacent 4 pierre de 6 a 9
+Les ouvriers déplacent 2 pierre de 2 a 1
+Les ouvriers déplacent 1 pierre de 3 a 2
+Les ouvriers déplacent 1 pierre de 2 a 7
+Les ouvriers déplacent 7 pierre de 7 a 6
+Les ouvriers déplacent 21 pierre de 1 a 3
+Les ouvriers déplacent 2 pierre de 7 a 8
+Les ouvriers déplacent 7 pierre de 3 a 2
+Obelix déplace 2 pierre de 7 a 9
+Obelix déplace 8 pierre de 3 a 8
+Les ouvriers déplacent 4 pierre de 3 a 1
+Les ouvriers déplacent 6 pierre de 1 a 9
+Les ouvriers déplacent 7 pierre de 2 a 9
+Les ouvriers déplacent 1 pierre de 3 a 6
+Les ouvriers déplacent 1 pierre de 8 a 7
+Les ouvriers déplacent 1 pierre de 1 a 6
+Les ouvriers déplacent 12 pierre de 6 a 9
+Les ouvriers déplacent 1 pierre de 3 a 6
+Les ouvriers déplacent 1 pierre de 7 a 5
+Les ouvriers déplacent 1 pierre de 1 a 9
+Les ouvriers déplacent 1 pierre de 5 a 9
+Obelix déplace 39 pierre de 9 a 4
+Les ouvriers déplacent 3 pierre de 9 a 6
+Les ouvriers déplacent 1 pierre de 9 a 6
+Les ouvriers déplacent 7 pierre de 8 a 4
+Les ouvriers déplacent 1 pierre de 9 a 8
+Les ouvriers déplacent 44 pierre de 4 a 1
+Obelix déplace 1 pierre de 6 a 3
+Obelix déplace 28 pierre de 1 a 8
+Les ouvriers déplacent 15 pierre de 8 a 1
+Les ouvriers déplacent 1 pierre de 3 a 2
+Les ouvriers déplacent 11 pierre de 1 a 5
+Obelix déplace 1 pierre de 4 a 7
+Obelix déplace 1 pierre de 4 a 5
+Les ouvriers déplacent 16 pierre de 1 a 6
+Les ouvriers déplacent 1 pierre de 2 a 6
+Les ouvriers déplacent 12 pierre de 8 a 2
+Obelix déplace 1 pierre de 7 a 4
+Obelix déplace 3 pierre de 2 a 4
+Les ouvriers déplacent 7 pierre de 2 a 4
+Les ouvriers déplacent 4 pierre de 1 a 6
+Les ouvriers déplacent 10 pierre de 5 a 6
+Les ouvriers déplacent 1 pierre de 1 a 5
+Les ouvriers déplacent 3 pierre de 5 a 9
+Les ouvriers déplacent 3 pierre de 8 a 7
+Les ouvriers déplacent 1 pierre de 2 a 3
+Les ouvriers déplacent 1 pierre de 2 a 4
+Les ouvriers déplacent 3 pierre de 7 a 4
+Obelix déplace 30 pierre de 6 a 8
+Les ouvriers déplacent 1 pierre de 3 a 7
+Les ouvriers déplacent 20 pierre de 8 a 4
+Les ouvriers déplacent 1 pierre de 7 a 3
+Les ouvriers déplacent 1 pierre de 9 a 8
+Obelix déplace 25 pierre de 4 a 6
+Obelix déplace 1 pierre de 3 a 5
+Obelix déplace 8 pierre de 8 a 5
+Obelix déplace 3 pierre de 8 a 4
+Obelix déplace 2 pierre de 9 a 5
+Les ouvriers déplacent 2 pierre de 5 a 2
+Les ouvriers déplacent 21 pierre de 6 a 4
+Les ouvriers déplacent 2 pierre de 2 a 6
+Obelix déplace 28 pierre de 4 a 5
+Obelix déplace 1 pierre de 8 a 6
+Les ouvriers déplacent 5 pierre de 4 a 8
+Les ouvriers déplacent 3 pierre de 6 a 7
+Les ouvriers déplacent 15 pierre de 5 a 2
+Les ouvriers déplacent 3 pierre de 7 a 6
+Les ouvriers déplacent 1 pierre de 4 a 3
+Les ouvriers déplacent 17 pierre de 5 a 1
+Les ouvriers déplacent 1 pierre de 3 a 4
+Les ouvriers déplacent 1 pierre de 4 a 8
+Les ouvriers déplacent 4 pierre de 2 a 4
+Les ouvriers déplacent 4 pierre de 4 a 1
+Les ouvriers déplacent 5 pierre de 6 a 8
+Les ouvriers déplacent 11 pierre de 8 a 3
+Les ouvriers déplacent 4 pierre de 6 a 7
+Les ouvriers déplacent 5 pierre de 3 a 2
+Les ouvriers déplacent 4 pierre de 3 a 1
+Les ouvriers déplacent 25 pierre de 1 a 7
+Les ouvriers déplacent 3 pierre de 6 a 7
+Les ouvriers déplacent 8 pierre de 2 a 3
+Les ouvriers déplacent 11 pierre de 7 a 2
+Les ouvriers déplacent 2 pierre de 2 a 7
+Les ouvriers déplacent 16 pierre de 2 a 6
+Les ouvriers déplacent 1 pierre de 2 a 8
+Les ouvriers déplacent 1 pierre de 7 a 6
+Les ouvriers déplacent 1 pierre de 5 a 2
+Les ouvriers déplacent 16 pierre de 6 a 2
+Les ouvriers déplacent 3 pierre de 5 a 7
+Les ouvriers déplacent 6 pierre de 2 a 8
+Les ouvriers déplacent 1 pierre de 5 a 4
+Les ouvriers déplacent 1 pierre de 4 a 3
+Les ouvriers déplacent 4 pierre de 8 a 9
+Les ouvriers déplacent 4 pierre de 3 a 9
+Obelix déplace 2 pierre de 6 a 2
+Obelix déplace 6 pierre de 2 a 4
+Obelix déplace 1 pierre de 9 a 7
+Obelix déplace 1 pierre de 2 a 8
+Obelix déplace 7 pierre de 3 a 6
+Obelix déplace 4 pierre de 2 a 6
+Les ouvriers déplacent 2 pierre de 9 a 5
+Les ouvriers déplacent 1 pierre de 2 a 4
+Les ouvriers déplacent 6 pierre de 6 a 9
+Les ouvriers déplacent 2 pierre de 5 a 1
+Les ouvriers déplacent 1 pierre de 1 a 4
+Les ouvriers déplacent 1 pierre de 9 a 4
+Les ouvriers déplacent 2 pierre de 7 a 6
+Les ouvriers déplacent 1 pierre de 2 a 5
+Les ouvriers déplacent 1 pierre de 5 a 9
+Les ouvriers déplacent 4 pierre de 8 a 1
+Les ouvriers déplacent 7 pierre de 9 a 8
+Les ouvriers déplacent 3 pierre de 1 a 7
+Les ouvriers déplacent 1 pierre de 8 a 3
+Les ouvriers déplacent 4 pierre de 9 a 6
+Les ouvriers déplacent 6 pierre de 8 a 1
+Les ouvriers déplacent 6 pierre de 1 a 2
+Les ouvriers déplacent 1 pierre de 1 a 9
+Les ouvriers déplacent 1 pierre de 1 a 7
+Obelix déplace 21 pierre de 7 a 5
+Obelix déplace 11 pierre de 5 a 3
+Obelix déplace 1 pierre de 9 a 5
+Obelix déplace 1 pierre de 2 a 8
+Obelix déplace 5 pierre de 7 a 5
+Les ouvriers déplacent 10 pierre de 3 a 9
+Les ouvriers déplacent 1 pierre de 8 a 5
+Les ouvriers déplacent 8 pierre de 4 a 2
+Obelix déplace 1 pierre de 3 a 4
+Obelix déplace 2 pierre de 7 a 3
+Obelix déplace 5 pierre de 5 a 3
+Les ouvriers déplacent 5 pierre de 9 a 8
+Les ouvriers déplacent 10 pierre de 6 a 2
+Les ouvriers déplacent 1 pierre de 6 a 4
+Obelix déplace 1 pierre de 9 a 4
+Obelix déplace 4 pierre de 9 a 3
+Les ouvriers déplacent 19 pierre de 2 a 5
+Les ouvriers déplacent 2 pierre de 4 a 5
+Les ouvriers déplacent 11 pierre de 5 a 1
+Les ouvriers déplacent 15 pierre de 5 a 2
+Les ouvriers déplacent 4 pierre de 8 a 1
+Les ouvriers déplacent 12 pierre de 1 a 5
+Les ouvriers déplacent 1 pierre de 8 a 1
+Obelix déplace 1 pierre de 4 a 8
+Obelix déplace 3 pierre de 1 a 3
+Obelix déplace 8 pierre de 5 a 4
+Obelix déplace 7 pierre de 3 a 9
+Obelix déplace 4 pierre de 3 a 5
+Les ouvriers déplacent 4 pierre de 4 a 1
+Les ouvriers déplacent 3 pierre de 9 a 3
+Les ouvriers déplacent 2 pierre de 4 a 1
+Obelix déplace 4 pierre de 3 a 8
+Les ouvriers déplacent 4 pierre de 2 a 3
+Les ouvriers déplacent 1 pierre de 9 a 5
+Les ouvriers déplacent 4 pierre de 8 a 6
+Les ouvriers déplacent 2 pierre de 4 a 3
+Les ouvriers déplacent 1 pierre de 4 a 5
+Les ouvriers déplacent 5 pierre de 3 a 4
+Les ouvriers déplacent 3 pierre de 3 a 6
+Les ouvriers déplacent 5 pierre de 1 a 6
+Les ouvriers déplacent 2 pierre de 4 a 6
+Les ouvriers déplacent 1 pierre de 9 a 2
+Les ouvriers déplacent 7 pierre de 6 a 3
+Les ouvriers déplacent 1 pierre de 8 a 9
+Les ouvriers déplacent 2 pierre de 1 a 4
+Obelix déplace 2 pierre de 4 a 7
+Les ouvriers déplacent 4 pierre de 6 a 4
+Les ouvriers déplacent 5 pierre de 3 a 7
+Les ouvriers déplacent 1 pierre de 7 a 2
+Les ouvriers déplacent 3 pierre de 6 a 7
+Les ouvriers déplacent 1 pierre de 4 a 5
+Les ouvriers déplacent 4 pierre de 2 a 6
+Les ouvriers déplacent 3 pierre de 6 a 9
+Les ouvriers déplacent 1 pierre de 6 a 5
+Les ouvriers déplacent 1 pierre de 9 a 2
+Les ouvriers déplacent 5 pierre de 9 a 3
+Obelix déplace 11 pierre de 5 a 1
+Les ouvriers déplacent 3 pierre de 7 a 8
+Les ouvriers déplacent 2 pierre de 8 a 9
+Les ouvriers déplacent 4 pierre de 5 a 1
+Les ouvriers déplacent 10 pierre de 2 a 7
+Les ouvriers déplacent 5 pierre de 3 a 7
+Les ouvriers déplacent 1 pierre de 9 a 3
+Les ouvriers déplacent 6 pierre de 1 a 7
+Les ouvriers déplacent 22 pierre de 7 a 9
+Les ouvriers déplacent 3 pierre de 2 a 4
+Les ouvriers déplacent 4 pierre de 5 a 3
+Obelix déplace 1 pierre de 8 a 4
+Les ouvriers déplacent 5 pierre de 4 a 7
+Les ouvriers déplacent 19 pierre de 9 a 8
+Les ouvriers déplacent 2 pierre de 1 a 5
+Les ouvriers déplacent 2 pierre de 4 a 5
+Les ouvriers déplacent 2 pierre de 4 a 9
+Les ouvriers déplacent 4 pierre de 9 a 2
+Les ouvriers déplacent 4 pierre de 7 a 3
+Les ouvriers déplacent 5 pierre de 7 a 5
+Les ouvriers déplacent 7 pierre de 3 a 7
+Les ouvriers déplacent 2 pierre de 8 a 4
+Les ouvriers déplacent 3 pierre de 4 a 7
+Obelix déplace 12 pierre de 8 a 1
+Les ouvriers déplacent 4 pierre de 3 a 7
+Les ouvriers déplacent 1 pierre de 3 a 6
+Les ouvriers déplacent 1 pierre de 6 a 1
+Les ouvriers déplacent 1 pierre de 5 a 9
+Les ouvriers déplacent 3 pierre de 9 a 3
+Les ouvriers déplacent 2 pierre de 2 a 4
+Obelix déplace 3 pierre de 8 a 3
+Obelix déplace 2 pierre de 4 a 7
+Obelix déplace 7 pierre de 5 a 1
+Obelix déplace 2 pierre de 8 a 3
+Les ouvriers déplacent 8 pierre de 7 a 9
+Les ouvriers déplacent 2 pierre de 9 a 7
+Les ouvriers déplacent 3 pierre de 9 a 5
+Les ouvriers déplacent 11 pierre de 1 a 2
+Les ouvriers déplacent 5 pierre de 3 a 8
+Obelix déplace 16 pierre de 1 a 5
+Obelix déplace 1 pierre de 9 a 8
+Obelix déplace 3 pierre de 3 a 2
+Obelix déplace 6 pierre de 2 a 6
+Les ouvriers déplacent 6 pierre de 7 a 4
+Les ouvriers déplacent 2 pierre de 5 a 2
+Les ouvriers déplacent 6 pierre de 4 a 9
+Les ouvriers déplacent 11 pierre de 5 a 7
+Les ouvriers déplacent 2 pierre de 6 a 5
+Les ouvriers déplacent 9 pierre de 5 a 1
+Les ouvriers déplacent 2 pierre de 8 a 5
+Les ouvriers déplacent 13 pierre de 7 a 4
+Obelix déplace 6 pierre de 1 a 5
+Obelix déplace 10 pierre de 2 a 9
+Obelix déplace 1 pierre de 4 a 5
+Obelix déplace 4 pierre de 6 a 9
+Les ouvriers déplacent 3 pierre de 2 a 4
+Les ouvriers déplacent 2 pierre de 8 a 2
+Les ouvriers déplacent 15 pierre de 4 a 5
+Les ouvriers déplacent 1 pierre de 2 a 8
+Les ouvriers déplacent 1 pierre de 2 a 3
+Les ouvriers déplacent 2 pierre de 8 a 7
+Les ouvriers déplacent 3 pierre de 7 a 1
+Les ouvriers déplacent 1 pierre de 7 a 8
+Les ouvriers déplacent 3 pierre de 5 a 9
+Obelix déplace 1 pierre de 7 a 1
+Obelix déplace 21 pierre de 5 a 2
+Obelix déplace 3 pierre de 9 a 1
+Obelix déplace 5 pierre de 1 a 4
+Les ouvriers déplacent 1 pierre de 3 a 4
+Les ouvriers déplacent 1 pierre de 8 a 5
+Les ouvriers déplacent 1 pierre de 8 a 9
+Obelix déplace 1 pierre de 5 a 3
+Obelix déplace 5 pierre de 2 a 5
+Obelix déplace 5 pierre de 5 a 3
+Obelix déplace 7 pierre de 9 a 2
+Les ouvriers déplacent 3 pierre de 3 a 6
+Les ouvriers déplacent 2 pierre de 1 a 4
+Les ouvriers déplacent 1 pierre de 3 a 4
+Les ouvriers déplacent 2 pierre de 3 a 2
+Les ouvriers déplacent 25 pierre de 2 a 1
+Les ouvriers déplacent 11 pierre de 9 a 2
+Les ouvriers déplacent 9 pierre de 2 a 8
+Les ouvriers déplacent 4 pierre de 9 a 5
+Les ouvriers déplacent 6 pierre de 4 a 3
+Les ouvriers déplacent 3 pierre de 3 a 5
+Les ouvriers déplacent 9 pierre de 8 a 2
+Les ouvriers déplacent 3 pierre de 4 a 3
+Les ouvriers déplacent 1 pierre de 9 a 4
+Les ouvriers déplacent 4 pierre de 3 a 8
+Les ouvriers déplacent 2 pierre de 8 a 1
+Les ouvriers déplacent 3 pierre de 5 a 9
+Les ouvriers déplacent 2 pierre de 8 a 1
+Les ouvriers déplacent 4 pierre de 2 a 9
+Obelix déplace 6 pierre de 9 a 4
+Obelix déplace 1 pierre de 9 a 2
+Obelix déplace 1 pierre de 6 a 4
+Obelix déplace 3 pierre de 4 a 3
+Obelix déplace 2 pierre de 3 a 9
+Obelix déplace 3 pierre de 1 a 9
+Les ouvriers déplacent 2 pierre de 2 a 7
+Les ouvriers déplacent 2 pierre de 7 a 2
+Obelix déplace 2 pierre de 3 a 2
+Les ouvriers déplacent 5 pierre de 9 a 7
+Les ouvriers déplacent 2 pierre de 7 a 2
+Les ouvriers déplacent 28 pierre de 1 a 7
+Les ouvriers déplacent 1 pierre de 1 a 9
+Les ouvriers déplacent 10 pierre de 2 a 5
+Les ouvriers déplacent 1 pierre de 9 a 5
+Les ouvriers déplacent 14 pierre de 7 a 1
+Les ouvriers déplacent 6 pierre de 1 a 6
+Les ouvriers déplacent 12 pierre de 7 a 9
+Obelix déplace 6 pierre de 1 a 5
+Obelix déplace 1 pierre de 3 a 8
+Obelix déplace 4 pierre de 7 a 1
+Obelix déplace 4 pierre de 4 a 8
+Les ouvriers déplacent 4 pierre de 6 a 1
+Les ouvriers déplacent 1 pierre de 2 a 8
+Les ouvriers déplacent 1 pierre de 2 a 1
+Les ouvriers déplacent 1 pierre de 6 a 1
+Les ouvriers déplacent 5 pierre de 9 a 8
+Les ouvriers déplacent 16 pierre de 5 a 7
+Les ouvriers déplacent 2 pierre de 7 a 1
+Les ouvriers déplacent 6 pierre de 8 a 1
+Les ouvriers déplacent 2 pierre de 9 a 4
+Les ouvriers déplacent 2 pierre de 1 a 3
+Les ouvriers déplacent 1 pierre de 6 a 8
+Les ouvriers déplacent 2 pierre de 5 a 3
+Les ouvriers déplacent 3 pierre de 5 a 7
+Les ouvriers déplacent 4 pierre de 8 a 7
+Les ouvriers déplacent 4 pierre de 9 a 8
+Les ouvriers déplacent 6 pierre de 8 a 6
+Obelix déplace 10 pierre de 7 a 8
+Obelix déplace 1 pierre de 9 a 1
+Obelix déplace 11 pierre de 7 a 6
+Les ouvriers déplacent 2 pierre de 3 a 9
+Obelix déplace 1 pierre de 3 a 4
+Les ouvriers déplacent 4 pierre de 1 a 2
+Les ouvriers déplacent 3 pierre de 2 a 3
+Les ouvriers déplacent 1 pierre de 9 a 1
+Les ouvriers déplacent 3 pierre de 4 a 2
+Les ouvriers déplacent 9 pierre de 6 a 4
+Obelix déplace 2 pierre de 3 a 5
+Les ouvriers déplacent 8 pierre de 4 a 9
+Les ouvriers déplacent 4 pierre de 1 a 8
+Obelix déplace 3 pierre de 8 a 2
+Les ouvriers déplacent 2 pierre de 2 a 6
+Les ouvriers déplacent 1 pierre de 7 a 2
+Les ouvriers déplacent 11 pierre de 6 a 5
+Les ouvriers déplacent 7 pierre de 8 a 6
+Les ouvriers déplacent 7 pierre de 5 a 8
+Les ouvriers déplacent 5 pierre de 8 a 5
+Les ouvriers déplacent 1 pierre de 2 a 5
+Les ouvriers déplacent 3 pierre de 5 a 7
+Les ouvriers déplacent 8 pierre de 5 a 6
+Les ouvriers déplacent 2 pierre de 4 a 5
+Les ouvriers déplacent 1 pierre de 7 a 9
+Les ouvriers déplacent 2 pierre de 3 a 8
+Les ouvriers déplacent 3 pierre de 8 a 5
+Obelix déplace 13 pierre de 6 a 2
+Les ouvriers déplacent 2 pierre de 8 a 5
+Les ouvriers déplacent 5 pierre de 1 a 9
+Obelix déplace 3 pierre de 6 a 4
+Les ouvriers déplacent 5 pierre de 5 a 8
+Les ouvriers déplacent 1 pierre de 5 a 4
+Les ouvriers déplacent 4 pierre de 1 a 4
+Les ouvriers déplacent 1 pierre de 7 a 2
+Obelix déplace 12 pierre de 9 a 7
+Obelix déplace 2 pierre de 9 a 1
+Obelix déplace 3 pierre de 8 a 3
+Obelix déplace 1 pierre de 5 a 4
+Obelix déplace 3 pierre de 8 a 9
+Obelix déplace 2 pierre de 4 a 7
+Obelix déplace 4 pierre de 9 a 5
+Obelix déplace 5 pierre de 4 a 9
+Obelix déplace 3 pierre de 9 a 2
+Obelix déplace 1 pierre de 9 a 4
+Obelix déplace 1 pierre de 9 a 3
+Obelix déplace 12 pierre de 7 a 4
+Les ouvriers déplacent 1 pierre de 4 a 8
+Les ouvriers déplacent 1 pierre de 8 a 1
+Les ouvriers déplacent 1 pierre de 5 a 4
+Les ouvriers déplacent 2 pierre de 3 a 5
+Les ouvriers déplacent 11 pierre de 2 a 3
+Les ouvriers déplacent 4 pierre de 5 a 7
+Les ouvriers déplacent 7 pierre de 7 a 2
+Les ouvriers déplacent 1 pierre de 1 a 9
+Les ouvriers déplacent 1 pierre de 8 a 3
+Les ouvriers déplacent 1 pierre de 9 a 1
+Les ouvriers déplacent 2 pierre de 1 a 5
+Les ouvriers déplacent 2 pierre de 5 a 4
+Les ouvriers déplacent 1 pierre de 8 a 1
+Les ouvriers déplacent 2 pierre de 5 a 8
+Les ouvriers déplacent 5 pierre de 1 a 9
+Obelix déplace 11 pierre de 3 a 9
+Les ouvriers déplacent 1 pierre de 3 a 6
+Obelix déplace 1 pierre de 6 a 3
+Les ouvriers déplacent 3 pierre de 3 a 6
+Les ouvriers déplacent 3 pierre de 2 a 6
+Obelix déplace 13 pierre de 9 a 7
+Les ouvriers déplacent 2 pierre de 6 a 1
+Les ouvriers déplacent 8 pierre de 4 a 9
+Les ouvriers déplacent 7 pierre de 4 a 2
+Obelix déplace 2 pierre de 8 a 6
+Les ouvriers déplacent 1 pierre de 1 a 9
+Les ouvriers déplacent 5 pierre de 2 a 1
+Les ouvriers déplacent 2 pierre de 1 a 3
+Les ouvriers déplacent 10 pierre de 2 a 8
+Obelix déplace 3 pierre de 9 a 3
+Les ouvriers déplacent 1 pierre de 7 a 4
+Les ouvriers déplacent 6 pierre de 7 a 5
